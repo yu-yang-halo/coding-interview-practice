@@ -2,4 +2,7 @@
 系统学习计算机知识-coding-interview-university
 
 
-[x] 第一天：
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
