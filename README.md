@@ -1,8 +1,11 @@
 # coding-interview-practice
 系统学习计算机知识-coding-interview-university
 
+2017/8/29
+- [ ] C —— 使用结构体和函数，该函数会接受一个结构体指针 * 及其他数据作为参数。
+- [ ] C++ —— 不使用内建的数据类型。
+- [ ] C++ —— 使用内建的数据类型，如使用 STL 的 std::list 来作为链表。
+- [ ] Python ——  使用内建的数据类型（为了持续练习 Python），并编写一些测试去保证自己代码的正确性。有时，只需要使用断言函数 assert() 即可。
+- [ ] 此外，你也可以使用 Java 或其他语言。以上只是我的个人偏好而已。
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+
